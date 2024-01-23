@@ -1,1 +1,24 @@
-[{"_id":"65859c8cd1c03b4e353dc46e","name":"Owner","email":"owner@gmail.com","phone":"09100100100","password":"$2a$10$PnvuscIQA3t/1w2Z8KMtBOwYBaWEA4hcu7WC7X5kC8giY8cDLZHzy","permitId":[],"roleId":[],"created":"2023-12-22T14:26:20.172Z","__v":0},{"_id":"65859c8cd1c03b4e353dc46f","name":"Manager","email":"manager@gamil.com","phone":"09200200200","password":"$2a$10$OwVbLHfCTWgGBXTBlTXx2.7n/NBVPtYOs0kEXsEeGyzLwhsyGGa/i","permitId":[],"roleId":[],"created":"2023-12-22T14:26:20.275Z","__v":0}]
+[
+    {
+        "_id": "65859c8cd1c03b4e353dc46e",
+        "name": "Owner",
+        "email": "owner@gmail.com",
+        "phone": "09100100100",
+        "password": "$2a$10$PnvuscIQA3t/1w2Z8KMtBOwYBaWEA4hcu7WC7X5kC8giY8cDLZHzy",
+        "permitId": [],
+        "roleId": [],
+        "created": "2023-12-22T14:26:20.172Z",
+        "__v": 0
+    },
+    {
+        "_id": "65859c8cd1c03b4e353dc46f",
+        "name": "Manager",
+        "email": "manager@gamil.com",
+        "phone": "09200200200",
+        "password": "$2a$10$OwVbLHfCTWgGBXTBlTXx2.7n/NBVPtYOs0kEXsEeGyzLwhsyGGa/i",
+        "permitId": [],
+        "roleId": [],
+        "created": "2023-12-22T14:26:20.275Z",
+        "__v": 0
+    }
+]

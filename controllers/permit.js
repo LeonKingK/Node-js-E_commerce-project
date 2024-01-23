@@ -16,6 +16,7 @@ const get=async(req,res,next)=>{
 }
 
 const add=async (req,res,next)=>{
+    
      let dbPermit=await DB.findOne({name:req.body.name});
     if(dbPermit){
         next(new Error("Permission is already in use"));
